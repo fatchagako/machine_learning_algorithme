@@ -1,2 +1,2 @@
 # machine_learning_algorithme
-Ce projet de machine learning vise à prédire la probabilité qu'une personne ai un moustiquaire pour dormir. J'ai utlisé 3 algorithme de machine learning et au final j'ai utilisé le meilleur modèle de prédiction.
+'ai appliqué des techniques d'apprentissage automatique à un ensemble de données de santé publique pour développer un modèle prédictif. Ce modèle permet d'identifier les populations les plus vulnérables en matière d'accès aux moustiquaires de nuit au Nigeria. Les résultats de cette étude pourraient contribuer à l'élaboration de stratégies de prévention plus efficaces.

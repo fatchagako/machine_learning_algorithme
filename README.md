@@ -1,2 +1,2 @@
 # machine_learning_algorithme
-'ai appliqué des techniques d'apprentissage automatique à un ensemble de données de santé publique pour développer un modèle prédictif. Ce modèle permet d'identifier les populations les plus vulnérables en matière d'accès aux moustiquaires de nuit au Nigeria. Les résultats de cette étude pourraient contribuer à l'élaboration de stratégies de prévention plus efficaces.
+J'ai appliqué des techniques d'apprentissage automatique à un ensemble de données de santé publique pour développer un modèle prédictif. Ce modèle permet d'identifier les populations les plus vulnérables en matière d'accès aux moustiquaires de nuit au Nigeria. Les résultats de cette étude pourraient contribuer à l'élaboration de stratégies de prévention plus efficaces.
